@@ -11,7 +11,7 @@ Dia 3 ✅ -> Frameworks e dependências: Node.js, Next, React...;
 
 Dia 4 ✅ -> Protocolos HTTP, página inicial e desafio;
 
-Dia 5 
+Dia 5 ✅ -> Revisão aprofundada sobre Git e versionamento;
 
 Dia 6 
 
