@@ -13,11 +13,7 @@ Dia 4 ✅ -> Protocolos HTTP, página inicial e desafio;
 
 Dia 5 ✅ -> Revisão aprofundada sobre Git e Versionamento (Git Amend);
 
-<<<<<<< HEAD
 Dia 6 ✅ -> Aprofundamento em Git (Push, Merge);
-=======
-Dia 6 ✅ ->
->>>>>>> 234a91765419df3faec168c3b3b602da369de908
 
 Dia 7 
 
