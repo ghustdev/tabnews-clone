@@ -12,7 +12,7 @@ Esse repositório é a implementação de um clone do Tabnews, que é o projeto 
 # Histórico do desenvolvimento
 #### Início do projeto
 
-#### Módulos do Curso:
+#### Módulos do curso e linha do tempo:
 Dia 1 ✅ -> Início com a ideia do Projeto;
 
 Dia 2 ✅ -> Git e Versionamento;
