@@ -25,7 +25,7 @@ Dia 5 ✅ -> Revisão aprofundada sobre Git e Versionamento (Git Amend);
 
 Dia 6 ✅ -> Aprofundamento em Git (Push, Merge);
 
-Dia 7 
+Dia 7 ✅ -> Conexão cpm Vercel (deploy), importação do repositório e primeira versão no ar;
 
 Dia 8 
 
