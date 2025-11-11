@@ -30,6 +30,20 @@ Dia 6 ✅ -> Aprofundamento em Git (Push, Merge);
 
 Dia 7 ✅ -> Conexão com Vercel (deploy), importação do repositório e primeira versão no ar;
 
-Dia 8 
+Dia 8 ✅ -> Coenhcimento técnico, planejamento, como ser um programador orgânico e Soft Skills;
+
+Dia 9 ✅ -> Planeajmentoe e  organização, Issues, milestones e Soft Skills;
+
+Dia 10 
+
+Dia 11 
+
+Dia 12 
+
+Dia 13 
+
+Dia 14 
+
+Dia 15 
 
 
