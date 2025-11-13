@@ -1,4 +1,3 @@
-//  Componente React inicial
 //  Exportar função Home para renderizar página
 export default function Home() {
   return (
