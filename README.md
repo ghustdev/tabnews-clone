@@ -18,7 +18,7 @@ Esse repositório é a implementação de um clone do Tabnews, que é o projeto 
 
 # Milestones e Issues - Planejamento
 
-[Acesso direto ao GitHub Milestones do projeto](https://github.com/ghustdev/clone-tabnews/milestones)
+[Acesso direto ao GitHub Milestones do projeto](https://github.co m/ghustdev/clone-tabnews/milestones)
 
 # Histórico do desenvolvimento
 
@@ -33,7 +33,7 @@ Dia 2 ✅ -> Git e Versionamento;
 Dia 3 ✅ -> Frameworks e dependências: Node.js, Next, React...;
 
 Dia 4 ✅ -> Protocolos HTTP, página inicial e desafio;
-
+ 
 Dia 5 ✅ -> Revisão aprofundada sobre Git e Versionamento (Git Amend);
 
 Dia 6 ✅ -> Aprofundamento em Git (Push, Merge);
@@ -52,6 +52,20 @@ Dia 12 ✅ -> Registrando domínio próprio;
 
 Dia 13 ✅ -> Serviços de hospedagem e Status Page;
 
-Dia 14 ✅ ->
+Dia 14 ✅ -> PoC e MVP, Arganização das Pastas, Modelagem e Arquiterura de Software (MVC);
 
 Dia 15
+
+Dia 16
+
+Dia 17
+
+Dia 18
+
+Dia 19
+
+Dia 20
+
+Dia 21
+
+Dia 22
