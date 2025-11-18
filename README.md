@@ -18,7 +18,7 @@ Esse repositório é a implementação de um clone do Tabnews, que é o projeto 
 
 # Milestones e Issues - Planejamento
 
-[Acesso direto ao GitHub Milestones do projeto](https://github.co m/ghustdev/clone-tabnews/milestones)
+[Acesso direto ao GitHub Milestones do projeto](https://github.com/ghustdev/tabnews-clone/milestones)
 
 # Histórico do desenvolvimento
 
