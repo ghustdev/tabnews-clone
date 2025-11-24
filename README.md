@@ -16,7 +16,7 @@ Esse repositório é a implementação de um clone do Tabnews, que é o projeto 
 
 # Rodar testes
 
-# Histórico do desenvolvimento
+# Histórico do desenvolviment
 
 ### Início do projeto
 
