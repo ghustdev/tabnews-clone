@@ -1,71 +1,107 @@
-# clone-tabnews
+# TabNews Clone
 
-O [TabNews](https://www.tabnews.com.br/) é um site focado na comunidade da área de tecnologia, destinado a debates e troca de conhecimentos por meio de publicações e comentários criados pelos próprios usuários.
+[![Deploy](https://img.shields.io/badge/deploy-vercel-black)](https://tabnewsnet.vercel.app/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Esse repositório é a implementação de um clone do Tabnews, que é o projeto desenvolvido pelo Felipe Deschamps para alunos do seu curso, o Curso.dev. Este repositório possui um único e importante objetivo, aprender a construir um sistema Full-Satck do absoluto zero, aplicando padrões de projetos, programação limpa, arquiteturas, system design e versionamento... Com o foco de aprender e desenvolver habilidades em React, Next.js, Node.js, Git.
+Um clone completo do [TabNews](https://www.tabnews.com.br/), plataforma focada na comunidade de tecnologia para debates e compartilhamento de conhecimento através de publicações e comentários.
 
-### Acesse o site em produção:
+## 🚀 Demo
 
-[Clone TabNews](https://tabnewsnet.vercel.app/)
+- **Produção:** [tabnewsnet.vercel.app](https://tabnewsnet.vercel.app/)
+- **Domínio:** [tabnews.net.br](https://tabnews.net.br/)
 
-[tabnews.net.br](https://tabnews.net.br/) -> Domínio real e registrado, para fins de aprendizado
+## 📋 Sobre o Projeto
 
-### Conteúdo:
+Este projeto é uma implementação educacional desenvolvida como parte do [Curso.dev](https://curso.dev) do Felipe Deschamps. O objetivo principal é construir um sistema Full-Stack do zero, aplicando:
 
-# Instalar e executar o projeto
+- Padrões de projeto e Clean Code
+- Arquitetura de software (MVC)
+- System Design
+- Versionamento com Git
+- Desenvolvimento com React, Next.js e Node.js
 
-# Rodar testes
+## 🛠️ Tecnologias
 
-# Histórico do desenvolviment
+- **Frontend:** React, Next.js
+- **Backend:** Node.js
+- **Testes:** Jest
+- **Deploy:** Vercel
+- **Ferramentas:** Prettier, EditorConfig
 
-### Início do projeto
+## 📦 Instalação e Execução
 
-### Milestones e Issues - Planejamento
+```bash
+# Clone o repositório
+git clone https://github.com/ghustdev/tabnews-clone.git
 
-[Acesso direto ao GitHub Milestones do projeto](https://github.com/ghustdev/tabnews-clone/milestones)
+# Acesse o diretório
+cd tabnews-clone
 
-### Progresso e linha do tempo:
+# Instale as dependências
+npm install
 
-Dia 1 ✅ -> Início com a ideia do Projeto;
+# Execute em desenvolvimento
+npm run dev
+```
 
-Dia 2 ✅ -> Git e Versionamento;
+## 🧪 Testes
 
-Dia 3 ✅ -> Frameworks e dependências: Node.js, Next, React...;
+```bash
+# Executar todos os testes
+npm test
 
-Dia 4 ✅ -> Protocolos HTTP, página inicial e desafio;
- 
-Dia 5 ✅ -> Revisão aprofundada sobre Git e Versionamento (Git Amend);
+# Executar em modo watch
+npm test:watch
+```
 
-Dia 6 ✅ -> Aprofundamento em Git (Push, Merge);
+## 📊 Planejamento
 
-Dia 7 ✅ -> Conexão com Vercel (deploy), importação do repositório e primeira versão no ar;
+Acompanhe o progresso do projeto através das [Milestones e Issues](https://github.com/ghustdev/tabnews-clone/milestones) no GitHub.
 
-Dia 8 ✅ -> Coenhcimento técnico, planejamento, como ser um programador orgânico e Soft Skills;
+## 📚 Progresso de Desenvolvimento
 
-Dia 9 ✅ -> Planeajmentoe e organização, Issues, Milestones e Soft Skills;
+### Fundamentos e Setup
+- [x] **Dia 1** - Início e concepção do projeto
+- [x] **Dia 2** - Git e versionamento
+- [x] **Dia 3** - Configuração de frameworks: Node.js, Next.js, React
+- [x] **Dia 4** - Protocolos HTTP e implementação da página inicial
+- [x] **Dia 5** - Revisão aprofundada de Git (Git Amend)
+- [x] **Dia 6** - Git avançado (Push, Merge)
 
-Dia 10 ✅ -> Configurando Prettier, EditorConfig e completando primeira Issue;
+### Deploy e Infraestrutura
+- [x] **Dia 7** - Integração com Vercel e primeiro deploy
+- [x] **Dia 11** - Configuração de domínio
+- [x] **Dia 12** - Registro de domínio próprio
+- [x] **Dia 13** - Serviços de hospedagem e Status Page
 
-Dia 11 ✅ -> Colocando dominio no ar;
+### Boas Práticas e Organização
+- [x] **Dia 8** - Conhecimento técnico, planejamento e soft skills
+- [x] **Dia 9** - Organização com Issues e Milestones
+- [x] **Dia 10** - Configuração de Prettier e EditorConfig
 
-Dia 12 ✅ -> Registrando domínio próprio;
+### Arquitetura e Testes
+- [x] **Dia 14** - PoC, MVP, organização de pastas e arquitetura MVC
+- [x] **Dia 15** - Implementação de testes automatizados com Jest
+- [ ] **Dia 16** - Em andamento
+- [ ] **Dia 17** - Planejado
+- [ ] **Dia 18** - Planejado
+- [ ] **Dia 19** - Planejado
+- [ ] **Dia 20** - Planejado
+- [ ] **Dia 21** - Planejado
+- [ ] **Dia 22** - Planejado
 
-Dia 13 ✅ -> Serviços de hospedagem e Status Page;
+## 🤝 Contribuindo
 
-Dia 14 ✅ -> PoC e MVP, Arganização das Pastas, Modelagem e Arquiterura de Software (MVC);
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-Dia 15 ✅ -> Trabalhando com testes automatizados, instalando e usando o Jest
+## 📝 Licença
 
-Dia 16
+Este projeto é desenvolvido para fins educacionais.
 
-Dia 17
+## 👨‍💻 Autor
 
-Dia 18
+Desenvolvido por [ghustdev](https://github.com/ghustdev)
 
-Dia 19
+---
 
-Dia 20
-
-Dia 21
-
-Dia 22
+⭐ Se este projeto foi útil para você, considere dar uma estrela!
