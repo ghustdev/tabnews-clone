@@ -82,6 +82,8 @@ Acompanhe o progresso do projeto através das [Milestones e Issues](https://gith
 ### Arquitetura e Testes
 - [x] **Dia 14** - PoC, MVP, organização de pastas e arquitetura MVC
 - [x] **Dia 15** - Implementação de testes automatizados com Jest
+- [x] **Dia Revisão** - Revisão
+
 - [ ] **Dia 16** - Em andamento
 - [ ] **Dia 17** - Planejado
 - [ ] **Dia 18** - Planejado
