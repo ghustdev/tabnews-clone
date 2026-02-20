@@ -4,5 +4,5 @@ test('GET to /api/v1/status should return 200', async () => {
 
   // uso do TDD para visualizar o response
   expect(response.status).toBe(200);
-  console.log(response);
+    console.log(response);
 });

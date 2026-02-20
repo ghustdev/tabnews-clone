@@ -3,7 +3,7 @@
 [![Deploy](https://img.shields.io/badge/deploy-vercel-black)](https://tabnewsnet.vercel.app/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Um clone completo do [TabNews](https://www.tabnews.com.br/), plataforma focada na comunidade de tecnologia para debates e compartilhamento de conhecimento através de publicações e comentários.
+Desenvolvi o clone completo do [TabNews](https://www.tabnews.com.br/), plataforma focada na comunidade de tecnologia para debates e compartilhamento de conhecimento através de publicações e comentários, para me tranformar em um Desenvolvedor genuinamente competente!
 
 ## 🚀 Demo
 
@@ -12,7 +12,7 @@ Um clone completo do [TabNews](https://www.tabnews.com.br/), plataforma focada n
 
 ## 📋 Sobre o Projeto
 
-Este projeto é uma implementação educacional desenvolvida como parte do [Curso.dev](https://curso.dev) do Felipe Deschamps. O objetivo principal é construir um sistema Full-Stack do zero, aplicando:
+Este projeto é uma implementação educacional desenvolvida como parte do [Curso.dev](https://curso.dev), que é uma verdadeira formação de Engenharia e Arquitetura de Software, do Felipe Deschamps. O objetivo principal é construir um sistema Full-Stack do zero, aplicando:
 
 - Padrões de projeto e Clean Code
 - Arquitetura de software (MVC)
@@ -84,7 +84,8 @@ Acompanhe o progresso do projeto através das [Milestones e Issues](https://gith
 - [x] **Dia 15** - Implementação de testes automatizados com Jest
 - [x] **Dia Revisão** - Revisão (voltando com tudo)
 - [x] **Dia 16** - API, versionamento de API, testes automatizados (integração) e tocar (literalmente) nas requisições HTTP e Endpoints
-- [ ] **Dia 17** - Subindo Banco de Dados Local e infraestrutura
+### Banco de Dados (PostgreSQL e Docker)
+- [ ] **Dia 17** - Subindo Banco de Dados Local, infraestrutura e uso de Docker
 - [ ] **Dia 18** - Planejado
 - [ ] **Dia 19** - Planejado
 - [ ] **Dia 20** - Planejado
