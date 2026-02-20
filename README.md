@@ -56,7 +56,7 @@ npm test:watch
 
 ## 📊 Planejamento
 
-Acompanhe o progresso do projeto através das [Milestones e Issues](https://github.com/ghustdev/tabnews-clone/milestones) no GitHub.
+Acompanhe o progresso do projeto através das [Milestones e Issues](https://github.com/users/ghustdev/projects/5) no GitHub.
 
 ## 📚 Progresso de Desenvolvimento
 
