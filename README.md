@@ -83,8 +83,8 @@ Acompanhe o progresso do projeto através das [Milestones e Issues](https://gith
 - [x] **Dia 14** - PoC, MVP, organização de pastas e arquitetura MVC
 - [x] **Dia 15** - Implementação de testes automatizados com Jest
 - [x] **Dia Revisão** - Revisão (voltando com tudo)
-- [x] **Dia 16** - Aplicação/conexão do Banco de Dados, API, Versionamento, testes automatizados e tocar (literalmente) nas requisições HTTP e Endpoints
-- [ ] **Dia 17** - Planejado
+- [x] **Dia 16** - API, versionamento de API, testes automatizados (integração) e tocar (literalmente) nas requisições HTTP e Endpoints
+- [ ] **Dia 17** - Subindo Banco de Dados Local e infraestrutura
 - [ ] **Dia 18** - Planejado
 - [ ] **Dia 19** - Planejado
 - [ ] **Dia 20** - Planejado
