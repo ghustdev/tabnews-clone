@@ -5,7 +5,10 @@ test('add 1 + 2 to equal 3', () => {
   expect(res).toBe(3);
 });
 
+// Indicador de que o teste está sendo executado
 test('teste', () => {
   console.log('testando');
+//   expect(true).toBe(true);
 });
+
 
